@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/Users/k17053kk/Documents/GitHub/Ev-3/OperatingEV3/.metadata/.plugins/org.eclipse.jdt.core
